@@ -1,0 +1,11 @@
+D:\vscodedotnet\webapi\obj\Release\net6.0\PubTmp\Out\webapi.exe
+D:\vscodedotnet\webapi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\vscodedotnet\webapi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\vscodedotnet\webapi\obj\Release\net6.0\PubTmp\Out\webapi.dll
+D:\vscodedotnet\webapi\obj\Release\net6.0\PubTmp\Out\webapi.deps.json
+D:\vscodedotnet\webapi\obj\Release\net6.0\PubTmp\Out\webapi.runtimeconfig.json
+D:\vscodedotnet\webapi\obj\Release\net6.0\PubTmp\Out\webapi.pdb
+D:\vscodedotnet\webapi\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\vscodedotnet\webapi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\vscodedotnet\webapi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\vscodedotnet\webapi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
